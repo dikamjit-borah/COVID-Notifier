@@ -12,4 +12,10 @@ update - Get COVID-19 related news from Guwahati Plus(?update - notify new news)
 Crontab for running script at regular intervals.
 
 
+Issues - (to be done in real time asynchronusly)
+notify when a tweet has been made
+notify when news is updated at site 
+notify when a new case or death occurs
+
+
 
